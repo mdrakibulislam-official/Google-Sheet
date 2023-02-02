@@ -1,3 +1,3 @@
 # Google-Sheet
 
-![My Image](C:\Users\User\Pictures\class attendance.PNG)
+![My Image](C:/Users/User/Pictures/class attendance.PNG)
